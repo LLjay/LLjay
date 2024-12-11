@@ -21,6 +21,9 @@ Here are some ideas to get you started:
          <a href=mailto:julylee0724@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:julylee0724@gmail.com"> </a>
           </div>
 
+
+
+
 ## Stacks
 <div>
     <div style="margin: auto; text-align: left;" align= "left"> 
