@@ -67,10 +67,9 @@ Here are some ideas to get you started:
                 </th>
             </tr>
         </table>
-</div>
-      <br> 
-    <div align= "center">  </div> 
     </div>
+    <br> 
+</div>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLjay&layout=compact)
 
 ## ETC
