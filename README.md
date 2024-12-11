@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=LLjay&show_icons=true&theme=holi" width = "49%" height="130%" />
 </div>
