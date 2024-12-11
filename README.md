@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## Stacks
 <div>
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
-        <table>
+        <table border="none">
             <tr>
                 <th>Language</th>
                 <th>
