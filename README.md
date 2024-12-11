@@ -1,4 +1,4 @@
-## 백엔드 개발자를 꿈꾸는 이지수입니다.
+
 
 <!--
 **LLjay/LLjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
