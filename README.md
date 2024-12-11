@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 백엔드 개발자를 희망합니다. 끈질기게 이해하며 배우고자 합니다.
 
 <div align= "left">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "left"> <a href=https://julylee0724.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://julylee0724.tistory.com/"> </a>
          <a href=mailto:julylee0724@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:julylee0724@gmail.com"> </a>
           </div>
