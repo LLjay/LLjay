@@ -24,6 +24,18 @@ Here are some ideas to get you started:
 ## Stacks
 <div>
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
+        <table>
+            <tr>
+                <th>Language</th>
+                <th>
+                    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+                 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+                </th>
+            </tr>
+        </table>
+
+        
       Language  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
                  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <br>
