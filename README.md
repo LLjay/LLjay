@@ -67,8 +67,7 @@ Here are some ideas to get you started:
                 </th>
             </tr>
         </table>
-
-    </div>
+</div>
       <br> 
     <div align= "center">  </div> 
     </div>
