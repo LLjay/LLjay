@@ -70,6 +70,7 @@ Here are some ideas to get you started:
     </div>
     <br> 
 </div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLjay&layout=compact)
 
 ## ETC
